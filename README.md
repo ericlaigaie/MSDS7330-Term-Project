@@ -1,6 +1,8 @@
 # MSDS7330-Term-Project
 Public Repo for Spring 2021 MSDS7330 Term Project
 
+# Project Proposal Google Docs Link
+https://docs.google.com/document/d/1zU15EqvHa_zFKy0kqXnWxCON_aNYrHvXz8QG1RbEGwc/edit?usp=sharing
 
 # (Temporary) Project Ideas - Found in Logistics .pdf
 ## Just some ones I found interesting / probably attainable
